@@ -7,3 +7,4 @@ Personal study notes. Messy on purpose.
 - `databases/`
 ## TODO: expand
 ## Summary
+## References
