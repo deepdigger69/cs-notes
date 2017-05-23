@@ -6,3 +6,4 @@ SYN, SYN-ACK, ACK. Slow start doubles cwnd per RTT until ssthresh.
 See also: write-ahead logging
 ## TODO: expand
 ## TODO: expand
+See also: write-ahead logging
