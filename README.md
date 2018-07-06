@@ -17,3 +17,4 @@ Personal study notes. Messy on purpose.
 ## Summary
 ## TODO: expand
 ## References
+## References
