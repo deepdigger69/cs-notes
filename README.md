@@ -20,3 +20,4 @@ Personal study notes. Messy on purpose.
 ## References
 ## References
 See also: write-ahead logging
+See also: write-ahead logging
