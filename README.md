@@ -21,3 +21,4 @@ Personal study notes. Messy on purpose.
 ## References
 See also: write-ahead logging
 See also: write-ahead logging
+## TODO: expand
