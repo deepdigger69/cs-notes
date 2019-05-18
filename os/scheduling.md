@@ -20,3 +20,4 @@ Round robin vs. CFS. CFS uses a red-black tree keyed on virtual runtime.
 ## Summary
 ## References
 ## TODO: expand
+See also: write-ahead logging
