@@ -32,3 +32,4 @@ See also: write-ahead logging
 ## Summary
 ## References
 ## Summary
+See also: write-ahead logging
