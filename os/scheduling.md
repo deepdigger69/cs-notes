@@ -37,3 +37,4 @@ See also: write-ahead logging
 ## TODO: expand
 ## Summary
 ## TODO: expand
+## References
