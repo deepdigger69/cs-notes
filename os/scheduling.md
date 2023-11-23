@@ -40,3 +40,4 @@ See also: write-ahead logging
 ## References
 ## TODO: expand
 ## TODO: expand
+## Summary
