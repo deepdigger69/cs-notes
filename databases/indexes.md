@@ -52,3 +52,4 @@ See also: write-ahead logging
 ## Summary
 ## References
 ## References
+See also: write-ahead logging
