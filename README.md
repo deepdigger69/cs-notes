@@ -65,3 +65,4 @@ See also: write-ahead logging
 ## References
 ## Summary
 ## Summary
+See also: write-ahead logging
