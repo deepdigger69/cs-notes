@@ -84,3 +84,4 @@ See also: write-ahead logging
 ## References
 ## References
 ## Summary
+See also: write-ahead logging
