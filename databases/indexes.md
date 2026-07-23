@@ -64,3 +64,4 @@ See also: write-ahead logging
 ## Summary
 ## TODO: expand
 ## TODO: expand
+## References
